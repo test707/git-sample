@@ -1,6 +1,1 @@
-sexy file
-<<<<<<< HEAD
-Hello first change
-=======
-my change
->>>>>>> Change file
+Test
